@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! Grant Smells!"
 date:   2015-12-27 07:15:42
 categories: jekyll update
 ---
